@@ -19,4 +19,19 @@ public class Retangulo {
 	public double calcularArea() {
 		return largura * altura;
 	}
+
+	public String largura() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public String altura() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public static Retangulo create(int i) {
+		// TODO Auto-generated method stub
+		return null;
+	}
 }
